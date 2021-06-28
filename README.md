@@ -5,7 +5,7 @@
 
 **Youtube video**: [https://youtu.be/4Pg8i7Tw3D8]
 
-This is a project we developed during our advanced software programming course in our 2nd year. This project helped us to gain a higher level of knowledge in programming, with emphasis on design patterns and programming principles, and finally developing our own JavaFX desktop application.
+This is a project we developed during our advanced software programming course in our 2nd year of computer science studies. This project helped us to gain a higher level of knowledge in programming, with emphasis on design patterns and programming principles, and finally developing our own JavaFX desktop application.
 
 In this project we chose to use the **MVVM architecture**.
 
