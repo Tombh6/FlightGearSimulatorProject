@@ -30,3 +30,10 @@ Scene Builder - Scene Builder 8.5.0
 **Additional software to run the program**:
 
 FlightGear 2020.3
+
+
+
+
+
+[Sequence Diagram.pdf](https://github.com/Tombh6/FlightGearSimulatorProject/files/6725012/Sequence.Diagram.pdf)
+
