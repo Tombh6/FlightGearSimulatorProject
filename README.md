@@ -33,7 +33,7 @@ FlightGear 2020.3
 
 
 
-
+**course of action**:
 
 [Sequence Diagram.pdf](https://github.com/Tombh6/FlightGearSimulatorProject/files/6725012/Sequence.Diagram.pdf)
 
