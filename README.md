@@ -20,10 +20,13 @@ We have the View layer that is responsible for the presentation, for example the
 
 
 **Built with**:
+
 Eclipse - Java IDE
+
 Scene Builder - Scene Builder 8.5.0
 
 
 
 **Additional software to run the program**:
+
 FlightGear 2020.3
