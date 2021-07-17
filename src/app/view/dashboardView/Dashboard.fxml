@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="412.0" prefWidth="399.0" styleClass="bodybg" stylesheets="@../application/application.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.view.dashboardView.DashboardController">
+               <children>
+                  <Text fx:id="roll" layoutX="12.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                  <Text fx:id="yaw" layoutX="151.0" layoutY="370.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                  <Text fx:id="pitch" layoutX="302.0" layoutY="370.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                  <Text fx:id="altitude" layoutX="299.0" layoutY="272.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                  <ImageView fx:id="heading" fitHeight="56.0" fitWidth="54.0" layoutX="95.0" layoutY="211.0" pickOnBounds="true" preserveRatio="true" styleClass="airplanePic">
+                  </ImageView>
+                  <ImageView fx:id="airspeed" fitHeight="117.0" fitWidth="35.0" layoutX="96.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true" styleClass="speedbarPic">
+                  </ImageView>
+               </children>
+  </AnchorPane>
